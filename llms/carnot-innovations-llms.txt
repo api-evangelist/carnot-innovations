@@ -1,0 +1,24 @@
+# Carnot Innovations
+
+> Carnot Innovations is a Hong Kong-based building energy management company that applies AI, machine learning, and advanced data analytics to optimize HVAC systems and reduce energy consumption across commercial buildings, data centers, hospitals, railways, and sewage treatment facilities in the Asia-Pacific region. The company is a portfolio company of 500 Global. It does not currently publish a public developer program or API; this profile exists in the API Evangelist network for discovery and enrichment.
+
+## Company
+- [Website](https://carnot-innovations.com): Company home page
+- [Projects](https://carnot-innovations.com/projects): Deployment case studies across buildings, data centers, hospitals, railways, and utilities
+- [Blog](https://carnot-innovations.com/blog): Articles on smart HVAC, model predictive control, ESG, net-zero, and retro-commissioning
+- [Careers](https://carnot-innovations.com/careers): Open roles
+- [Contact](https://carnot-innovations.com/contact): enquiry@carnot-innovations.com
+- [LinkedIn](https://www.linkedin.com/company/carnot-innovations/): Company profile
+
+## Capabilities
+- AI energy optimization: automated control that reduces HVAC energy consumption
+- Predictive maintenance: fault detection for chillers, pumps, cooling towers, and air handling units
+- Data visualization and management: analytics dashboards for facility managers
+- Continuous commissioning: actionable insights for targeted maintenance
+
+## APIs
+- None published. Carnot Innovations exposes no public API, developer portal, or machine-readable specification at this time.
+
+## Notes
+- Method: generated from the API Evangelist catalog (apis.yml) and public website content.
+- No OpenAPI, AsyncAPI, MCP server, SDK, or /.well-known discovery documents were found on the provider's public surface (all /.well-known/* paths 301-redirect to the home page).
