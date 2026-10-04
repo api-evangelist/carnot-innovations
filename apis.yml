@@ -52,7 +52,7 @@ tags:
 - Building Automation
 - Analytics
 - Artificial Intelligence
-- Machine-Learning
+- Machine Learning
 - Predictive Maintenance
 - Smart Buildings
 tags_raw:
@@ -66,6 +66,7 @@ tags_raw:
 - Machine Learning
 - Predictive Maintenance
 - Smart Buildings
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
